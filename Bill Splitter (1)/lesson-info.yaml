@@ -1,0 +1,8 @@
+type: framework
+custom_name: Bill Splitter
+content:
+  - Invite your friends
+  - The bill has arrived
+  - The Lucky One
+  - Party is over
+current_task: 2
